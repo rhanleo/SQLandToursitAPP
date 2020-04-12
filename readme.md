@@ -10,7 +10,9 @@
 <p>4). Open cmd in the root folder</p>
 <p>5). run command "php artisan serve"</p>
 <p>now you can access this url 'http://127.0.0.1:8000/'</p>
+
 <ul>
+	<h5>MENU</h5>
 	<li>JAPAN FAVORITES</li>
 	<li> SQL TEST 
 		<p>TEST 1</p>
