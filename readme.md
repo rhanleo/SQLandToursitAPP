@@ -10,9 +10,8 @@
 <p>4). Open cmd in the root folder</p>
 <p>5). run command "php artisan serve"</p>
 <p>now you can access this url 'http://127.0.0.1:8000/'</p>
-<ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false" >
-          <!-- Add icons to the links using the .nav-icon class
-               with font-awesome or any other icon font library -->
+<ul>
+          
           <li class="nav-item has-treeview menu-open">
             <a href="#" class="nav-link active">
               <i class="fas fa-map-marker-alt"></i>
@@ -35,7 +34,6 @@
 		   <li class="nav-item has-treeview menu-open">
             <a href="#" class="nav-link active">
 			<i class="fas fa-database"></i>
-             <!-- <i class="nav-icon fas fa-tachometer-alt"></i> -->
               <p>
                 SQL TEST 
                 <i class="right fas fa-angle-left"></i>
