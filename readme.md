@@ -10,48 +10,12 @@
 <p>4). Open cmd in the root folder</p>
 <p>5). run command "php artisan serve"</p>
 <p>now you can access this url 'http://127.0.0.1:8000/'</p>
-<ul>    <li>
-            <a href="#" class="nav-link active">
-              <p>
-                JAPAN FAVORITES
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="" class="nav-link active">
-                  
-                  <p>CITIES </p>
-                </a>
-              </li>
-              
-            </ul>
-          </li>
-		  
-		   <li class="nav-item has-treeview menu-open">
-            <a href="#" class="nav-link active">
-			
-              <p>
-                SQL TEST 
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="" class="nav-link active">
-                  
-                  <p>TEST 1</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="" class="nav-link">
-                  
-                  <p>TEST 2</p>
-                </a>
-              </li>
-              
-            </ul>
-          </li>
-          
+<ul>
+	<li>JAPAN FAVORITES</li>
+	<li> SQL TEST 
+		<p>TEST 1</p>
+		<p>TEST 2</p>
+	</li>
 </ul>
 <p>Good bless!!</p>
  <p>Note: if got an error please run command "composer dump-autoload" </p>
