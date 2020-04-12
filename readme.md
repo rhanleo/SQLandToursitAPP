@@ -10,20 +10,16 @@
 <p>4). Open cmd in the root folder</p>
 <p>5). run command "php artisan serve"</p>
 <p>now you can access this url 'http://127.0.0.1:8000/'</p>
-<ul>
-          
-          <li class="nav-item has-treeview menu-open">
+<ul>    <li>
             <a href="#" class="nav-link active">
-              <i class="fas fa-map-marker-alt"></i>
               <p>
                 JAPAN FAVORITES
-                <i class="right fas fa-angle-left"></i>
               </p>
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="{{route('main')}}" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="" class="nav-link active">
+                  
                   <p>CITIES </p>
                 </a>
               </li>
@@ -33,7 +29,7 @@
 		  
 		   <li class="nav-item has-treeview menu-open">
             <a href="#" class="nav-link active">
-			<i class="fas fa-database"></i>
+			
               <p>
                 SQL TEST 
                 <i class="right fas fa-angle-left"></i>
@@ -41,14 +37,14 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="{{route('sql-first')}}" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="" class="nav-link active">
+                  
                   <p>TEST 1</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="{{route('sql-secont')}}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                <a href="" class="nav-link">
+                  
                   <p>TEST 2</p>
                 </a>
               </li>
@@ -56,7 +52,7 @@
             </ul>
           </li>
           
-        </ul>
+</ul>
 <p>Good bless!!</p>
  <p>Note: if got an error please run command "composer dump-autoload" </p>
 
